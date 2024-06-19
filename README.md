@@ -1,4 +1,4 @@
-# Text to Avatar Video Synthesis ![Avatar Image](avatar.png)
+# Azure Text to Avatar Video Synthesis ![Avatar Image](avatar.png)
 
 This Streamlit application allows you to synthesize text into avatar videos using Microsoft Azure's Text to Speech with Avatar service.
 
