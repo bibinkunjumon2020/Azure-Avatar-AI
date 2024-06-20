@@ -22,8 +22,8 @@ st.set_page_config(
 )
 
 # Image above the sidebar
-image_path = os.path.join(os.path.dirname(__file__), 'avtar.png')  # Assuming avtar.png is in the same directory as this script
-logo_path = os.path.join(os.path.dirname(__file__), 'logo.png')  # Assuming logo.png is in the same directory as this script
+image_path = os.path.join(os.path.dirname(__file__), 'assets/avtar.png')  # Assuming avtar.png is in the same directory as this script
+logo_path = os.path.join(os.path.dirname(__file__), 'assets/logo.png')  # Assuming logo.png is in the same directory as this script
 image_url = st.image(image_path, width=400)
 st.sidebar.image(logo_path, caption='Avatar Image', width=100)
 

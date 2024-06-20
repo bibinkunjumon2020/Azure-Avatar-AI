@@ -1,8 +1,14 @@
-# Azure Text to Avatar Video Synthesis ![Avatar Image](avatar.png)
+# Azure Text to Avatar Video Synthesis ![Avatar Image](assets/avatar.png)
 
 This Streamlit application allows you to synthesize text into avatar videos using Microsoft Azure's Text to Speech with Avatar service.
 ## Generated Video-Demo
-https://github.com/bibinkunjumon2020/Azure-Avatar-AI/blob/main/output/avtar_1.mp4
+
+### Explanation:
+
+- `![Watch the video](https://via.placeholder.com/150)` 
+- `(https://github.com/bibinkunjumon2020/Azure-Avatar-AI/blob/main/output/avtar_1.mp4)`
+
+
 
 ## Getting Started
 
