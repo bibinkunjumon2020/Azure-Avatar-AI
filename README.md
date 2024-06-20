@@ -2,19 +2,10 @@
 
 This Streamlit application allows you to synthesize text into avatar videos using Microsoft Azure's Text to Speech with Avatar service.
 ## Generated Video-Demo
-
-### Explanation:
-
-### Explanation:
-
-### Explanation:
-### Explanation:
-
 <video width="640" height="360" controls>
   <source src="https://github.com/bibinkunjumon2020/Azure-Avatar-AI/blob/main/output/avtar_1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
 
 ## Getting Started
 
