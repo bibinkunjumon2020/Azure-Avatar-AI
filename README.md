@@ -5,8 +5,11 @@ This Streamlit application allows you to synthesize text into avatar videos usin
 
 ### Explanation:
 
-`![Watch the video](https://github.com/bibinkunjumon2020/Azure-Avatar-AI/blob/main/assets/thumbnail.png)` `(https://github.com/bibinkunjumon2020/Azure-Avatar-AI/blob/main/output/avtar_1.mp4)`
+### Explanation:
 
+### Explanation:
+
+[![Watch the video](https://github.com/bibinkunjumon2020/Azure-Avatar-AI/blob/main/assets/thumbnail.png)](https://github.com/bibinkunjumon2020/Azure-Avatar-AI/blob/main/output/avtar_1.mp4)
 
 
 ## Getting Started
