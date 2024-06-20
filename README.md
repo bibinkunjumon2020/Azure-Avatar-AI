@@ -25,13 +25,15 @@ Before running the application, ensure you have the following:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your/repository.git
-   cd repository-directory
+      git clone https://github.com/your/repository.git
+      cd repository-directory
 2. Install the required Python packages:
-pip install -r requirements.txt
+   ```bash
+      pip install streamlit
 
 3. Running the Application
-streamlit run main.py
+   ```bash
+      streamlit run main.py
 
 
 ## Usage
