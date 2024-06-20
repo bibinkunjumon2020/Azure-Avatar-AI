@@ -1,6 +1,8 @@
 # Azure Text to Avatar Video Synthesis ![Avatar Image](avatar.png)
 
 This Streamlit application allows you to synthesize text into avatar videos using Microsoft Azure's Text to Speech with Avatar service.
+## Generated Video-Demo
+
 
 ## Getting Started
 
@@ -26,7 +28,7 @@ pip install -r requirements.txt
 streamlit run main.py
 
 
-### Usage
+## Usage
 Fill in Subscription Key and Region: Enter your Speech API subscription key and select the service region from the dropdown.
 
 Enter Text: Input the text that you want to synthesize into an avatar video.
@@ -37,10 +39,11 @@ Monitor Job Status: Once submitted, the application will display the job status 
 
 List Jobs: You can also view a list of previously submitted batch synthesis jobs and their details.
 
-### License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-### Acknowledgments
+
+## Acknowledgments
 Microsoft Azure for providing the Text to Speech with Avatar service.
 Streamlit for the user-friendly web application framework.
 ## Author
