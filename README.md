@@ -2,9 +2,9 @@
 
 This Streamlit application allows you to synthesize text into avatar videos using Microsoft Azure's Text to Speech with Avatar service.
 ## Generated Video-Demo
-
-<iframe width="560" height="315" src="https://youtu.be/cps8--PuKB0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<video width="640" height="360" controls>
+  <source src="https://youtu.be/cps8--PuKB0" type="video/mp4">
+</video>
 
 ## Getting Started
 
