@@ -56,3 +56,5 @@ Streamlit for the user-friendly web application framework.
 BIBIN KUNJUMON
 bibinkunjumon2020@gmail.com
 ## Screenshots of App
+<img width="1422" alt="image" src="https://github.com/bibinkunjumon2020/Azure-Avatar-AI/assets/104210649/08789647-279d-4274-8f6f-028c818c90d3">
+
