@@ -4,7 +4,7 @@ This Streamlit application allows you to synthesize text into avatar videos usin
 
 ## Generated Video-Demo
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/cps8--PuKB0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/cps8--PuKB0/0.jpg)](https://www.youtube.com/watch?v=cps8--PuKB0)
 
 
 ## Getting Started
